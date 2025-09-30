@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package grpc_server;
+
+service TestService {
+  rpc GetData (Request) returns (Response);
+}
+
+message Request {
+  string query = 1;
+}
+
+message Response {
+  string message = 1;
+}

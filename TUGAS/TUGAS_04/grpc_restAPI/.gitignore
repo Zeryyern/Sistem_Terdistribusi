@@ -1,0 +1,12 @@
+# Ignore archives
+*.zip
+
+# Ignore videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
