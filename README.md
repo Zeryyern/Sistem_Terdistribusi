@@ -39,3 +39,11 @@ The assignments make use of:
 
 ## 📂 Assignment Structure
 Each week’s assignment is stored in a separate folder:
+Sistem_Terdistribusi/
+├── Tugas_1/ # Introduction: basic client-server communication
+├── Tugas_2/ # Remote Procedure Call (RPC) implementation
+├── Tugas_3/ # REST API for distributed communication
+├── Tugas_4/ # gRPC vs REST performance comparison
+├── Tugas_5/ # Synchronization and consistency
+├── Tugas_6/ # Fault tolerance & recovery mechanisms
+└── README.md
