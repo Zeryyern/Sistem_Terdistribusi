@@ -32,7 +32,7 @@ Key topics include:
 The assignments make use of:
 - **Programming Languages**: Python, Java, C++
 - **APIs & Frameworks**: gRPC, RESTful API (Flask/FastAPI/Express)
-- **Tools**: Git, Docker (optional), Visual Studio Code, PowerShell/Terminal
+- **Tools**: Git, Docker (Emphasized on this assignment), Visual Studio Code, PowerShell/Terminal/Gitbash
 - **Version Control**: GitHub for tracking progress and collaboration
 
 ---
